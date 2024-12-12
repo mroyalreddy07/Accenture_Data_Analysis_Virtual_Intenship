@@ -111,8 +111,7 @@ End result will be three cleaned data set :
   
   * Bar charts: To compare categories.
   * Pie charts: To show proportions of a whole.
-  * PPT [Powerpoint Presentation](https://github.com/mroyalreddy07/Accenture_Data_Analysis_Virtual_Intenship/blob/main/PowerPoint%20presentation.pptx)
-
+  * PPT [Powerpoint Presentation](https://github.com/mroyalreddy07/Accenture_Data_Analysis_Virtual_Intenship/blob/main/Presentation%20DA_Task%203_final.pptx)
     The choice of visualization depends on the data type, the audience, and the message to be conveyed. For example, bar charts are ideal for comparing quantities across categories, while line graphs work best       for showing trends over time.
 
     Visualizations should be simple, clear, and focused on communicating key insights. Avoid cluttering visuals with too much information or unnecessary elements.
