@@ -1,4 +1,4 @@
-# Accenture-Data-Analytics-and-Visualization-Virtual-Internship
+# Accenture North America-Data-Analytics-and-Visualization-Virtual-Internship
 
 # Certificate
 
